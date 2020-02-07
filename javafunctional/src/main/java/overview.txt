@@ -1,0 +1,14 @@
+Functional Programming
+refer
+https://www.youtube.com/watch?v=VRpHdSFWGPs&t=1381s //Amigoscode
+https://github.com/amigoscode/java-functional-programming
+
+Topics covered
+-imperative(Approach) style vs declarative(Approach) style
+-java.util.function package //Function  interface usage//SAM interfaces
+-usage of functions//chaining functions//BiFunction
+-usage of consumer and BiConsumer
+-usage of predicate
+-usage of Streams//use all functional Interfaces in stream Programming to reduce code and imprve readibility
+-usage of  java optional with functional interfaces.
+-usage of  Power of combinator pattern for doing  Validations.
